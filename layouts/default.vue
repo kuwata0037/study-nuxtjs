@@ -85,6 +85,11 @@ export default {
           title: 'Aboud',
           to: '/about',
         },
+        {
+          icon: 'mdi-map',
+          title: 'Map',
+          to: '/map',
+        },
       ],
       miniVariant: false,
       right: true,
